@@ -25,4 +25,6 @@ Disk Space : 5GB
 
 Total Runtime Hour for training and predictions is 1 Hour
 
+Programming Language : Python 3
+
 Algorithm Used: LightGBM (Gradient Boosting Tree) with 5 Fold (GroupKFold with "installation_id") Cross Validation with Bayesian Optimized HyperParameters and Nelder Mead Local Optimized threshold
