@@ -7,7 +7,7 @@ Using anonymous gameplay data, including knowledge of videos watched and games p
 create an algorithm that will lead to better-designed games and improved learning outcomes
 
 # Data
-Provided by Booz Allen Hamilton.<br />
+Provided by Booz Allen Hamilton.
 Hosted by A leading Data Science and Machine Learning competitions platform - **Kaggle**
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS5PQ_OWiFGx-jkAV_6Ti8bRBz0Z9DLDFIeHP6_YfPdqsTLyVns&usqp=CAU)
 
