@@ -27,7 +27,7 @@ Local CV Score - 0.56
 Python-3
 
 # Algorithm Used
-LightGBM (Gradient Boosting Tree) with 5 Fold (GroupKFold with "installation_id") Cross Validation with Bayesian Optimized HyperParameters and Nelder Mead Local Minimum Optimized thresholds
+LightGBM (Gradient Boosting Tree) with 5 Fold (GroupKFold with "installation_id") Cross Validation with Bayesian Optimized HyperParameters
 
 # Hardware Specification
 GPU : NVIDIA Tesla K80<br />
